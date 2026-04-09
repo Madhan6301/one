@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Thripura loves Madhan had a baby girl — Wedding collection like anywhere else</h1>
+                <h1>Thripura loves Madhan had a baby girl — You are a very good girl</h1>
                 <p>You love the way you want topology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
